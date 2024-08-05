@@ -6,7 +6,6 @@
 #include <cassert>
 #include <cstdint>
 
-// AES Constants and Functions
 const int AES_LENGTH = 16; // AES block size
 const int AES_ROUNDS = 10; // Number of AES rounds
 
