@@ -1,0 +1,4 @@
+Zeroes: 56, Ones: 72
+Zeroes: 66, Ones: 62
+Zeroes: 70, Ones: 58
+Zeroes: 67, Ones: 61
